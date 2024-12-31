@@ -1,16 +1,22 @@
-## Hi there 👋
+##  👋 我是叮当的老爷
 
-<!--
-**riancyman/riancyman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me  
+- 🌱 Currently learning and growing my skillset in web development  
+- 🔭 Working on personal projects to improve my coding skills  
+- 💡 Open to collaborating on interesting projects  
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack  
+- 💻 Languages: HTML, CSS, JavaScript，Java, C#, C/C++  
+- 🔧 Tools: Git, VS Code  
+- 🌐 Frameworks: React, Node.js  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with Me  
+- GitHub: [@riancyman](https://github.com/riancyman)  
+- Email: your-email@example.com (可选)  
+
+### ⚡ Fun Fact  
+- 热爱编程，享受创造的过程  
+- 喜欢探索新技术  
+
+---  
+⭐️ From [riancyman](https://github.com/riancyman)  

@@ -7,8 +7,8 @@
 - 💡 Open to collaborating on interesting projects  
 
 ### 🛠️ Tech Stack  
-- 💻 Languages: HTML, CSS, JavaScript, Java, C#, C/C++, Swfit, python  
-- 🔧 Tools: Git, VS Code, WindSurf, Cursor, idea, AndroidStuio    
+- 💻 Languages: HTML, CSS, JavaScript, Java, C#, C/C++, Swift, python  
+- 🔧 Tools: Git, VS Code, WindSurf, Cursor, idea, AndroidStudio
 - 🌐 Frameworks: React, Node.js, Vue   
 
 ### 📫 Connect with Me  

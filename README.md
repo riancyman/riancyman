@@ -1,9 +1,10 @@
 ##  👋 I am Dingdang (my cat)'s master  我是叮当的老爷
 
 ### 👨‍💻 About Me  
-- 🌱 Engaged in development work for more than 20 years, founded a software company, led a team, currently in a semi-retired state (从事开发工作 20 多年，创办过软件公司，带过团队，现处于半退休状态)
-- 🔭 Working on personal projects to improve my coding skills  
-- 💡 Open to collaborating on interesting projects  
+ - 🧑‍💻 20+ years in software development, still passionate about writing code
+ - 🔭 Building personal projects to explore new technologies
+ - 💡 Open to collaborating on interesting projects
+ - ⚡ Love tech, love life, love crypto 
 
 ### 🛠️ Tech Stack  
 **语言**

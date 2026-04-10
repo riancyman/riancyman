@@ -7,11 +7,17 @@
  - ⚡ Love tech, love life, love crypto 
 
 ### 🛠️ Tech Stack  
-**语言**
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)        ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+  **语言**
+  
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)        
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
-  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)                                ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
+  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)                                
+  ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
+  
   **Frontend**
+  
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
   ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
   ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
@@ -24,8 +30,7 @@
   ![Deno](https://img.shields.io/badge/-Deno-000000?style=flat&logo=deno&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-  ![Cloudflare
-  Workers](https://img.shields.io/badge/-CF%20Workers-F38020?style=flat&logo=cloudflare&logoColor=white)
+  ![Cloudflare Workers](https://img.shields.io/badge/-CF%20Workers-F38020?style=flat&logo=cloudflare&logoColor=white)
 
   **AI & Data**
 
@@ -44,6 +49,3 @@
 ### 📫 Connect with Me  
 - GitHub: [@riancyman](https://github.com/riancyman)  
 
-
----  
-⭐️ From [riancyman](https://github.com/riancyman)  

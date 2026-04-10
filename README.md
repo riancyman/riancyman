@@ -1,4 +1,4 @@
-##  👋 I am Dingdang (my cat)'s master  我是叮当的老爷
+##  👋 I am Dingdang (my cat)'s master 
 
 ### 👨‍💻 About Me  
  - 🧑‍💻 20+ years in software development, still passionate about writing code
@@ -10,10 +10,10 @@
 
   **语言**
   
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)        
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
-  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)                                
+  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
   ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
   
   **Frontend**
